@@ -1,1 +1,4 @@
 /src/resources/api_key
+/src/resources/org_id
+/src/resources/wordlist*.pkl
+*/__pycache__
